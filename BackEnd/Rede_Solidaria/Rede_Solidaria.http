@@ -1,0 +1,6 @@
+@Rede_Solidaria_HostAddress = http://localhost:5292
+
+GET {{Rede_Solidaria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
