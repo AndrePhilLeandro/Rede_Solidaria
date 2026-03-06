@@ -1,0 +1,16 @@
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\bin\Debug\net9.0\MS.Application.deps.json
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\bin\Debug\net9.0\MS.Application.dll
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\bin\Debug\net9.0\MS.Application.pdb
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\bin\Debug\net9.0\MS.Domain.dll
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\bin\Debug\net9.0\MS.Domain.pdb
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.csproj.AssemblyReference.cache
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.AssemblyInfoInputs.cache
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.AssemblyInfo.cs
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.csproj.CoreCompileInputs.cache
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.sourcelink.json
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Appli.B44E212D.Up2Date
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.dll
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\refint\MS.Application.dll
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\MS.Application.pdb
+C:\Users\Andre Leandro\Desktop\Rede_Solidaria\BackEnd\Cadastro\MS.Application\obj\Debug\net9.0\ref\MS.Application.dll
